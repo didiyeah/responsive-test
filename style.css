@@ -2,7 +2,7 @@
 
 body{	background-color:#ffcccc;  }
 
-main
+#main
 {				
 	background-color:#ccffcc;
 	height:400px;
@@ -47,33 +47,3 @@ footer
 	height:100px;
 	background-color:#333;
 }
-
-
-/* #main{				
-	background-color:#ccffcc;
-	height:440px;
-	width:4000px;
-}
-
-.colonne
-{
-	display:inline-block;
-	width:320px;
-	height:400px;
-	margin:20px;
-	background-color:#ccc;
-}
-
-.aside
-{
-	width:100px;
-	height:100px;
-	background-color:#333;
-}
-
-.bloc
-{
-	width:100px;
-	height:100px;
-	background-color:#333;
-} */
